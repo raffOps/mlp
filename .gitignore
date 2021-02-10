@@ -1,0 +1,6 @@
+
+haskell/.stack-work/
+
+*.yaml
+
+*.lock
